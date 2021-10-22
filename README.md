@@ -1,1 +1,2 @@
-# Synchronized-ball-project
+# C35_SynchronousBallMoment_StudentActivity
+Student Activity
